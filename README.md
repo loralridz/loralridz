@@ -1,11 +1,15 @@
 ![cover](https://user-images.githubusercontent.com/45927330/124398387-73000480-dce3-11eb-8b53-1dd0068382b7.png)
-### Hi, I'm Noor Rida. 
-- Working in React, Typescript & Node.
-- Enthusiastic about new Technologies.
+
+### Hi, I'm Noor Rida. I...
+- Work in React, Typescript & Node.
+- Look to work in new technologies.
 - Love keeping journals!
 ---
 ### Reach out
-- Email : (noor.rida.cui@gmail.com)
+- Email : noor.rida.cui@gmail.com
+- Connect : [LinkedIn](https://www.linkedin.com/in/noor-rida-0ba8771a6/)
+- Visit : ~~www.noor-rida.com~~
+
 <!--
 **loralridz/loralridz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
