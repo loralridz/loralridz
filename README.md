@@ -1,6 +1,6 @@
 ![cover](https://user-images.githubusercontent.com/45927330/124398387-73000480-dce3-11eb-8b53-1dd0068382b7.png)
 
-### Hi, I'm Noor Rida. I...
+### Hi, I'm Rida. I...
 - Work in React, Typescript & Node.
 - Look to work in new technologies.
 - Love keeping journals!
