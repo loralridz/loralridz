@@ -2,6 +2,7 @@
 
 <!--
 **loralridz/loralridz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cover](https://user-images.githubusercontent.com/45927330/124398387-73000480-dce3-11eb-8b53-1dd0068382b7.png)
 
 Here are some ideas to get you started:
 
