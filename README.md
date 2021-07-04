@@ -1,9 +1,11 @@
-### Hi there 👋
 ![cover](https://user-images.githubusercontent.com/45927330/124398387-73000480-dce3-11eb-8b53-1dd0068382b7.png)
+### Hi, Call me Rida
 <!--
 **loralridz/loralridz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+# H1
+## H2
+### H3
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
