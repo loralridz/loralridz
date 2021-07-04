@@ -1,5 +1,11 @@
 ![cover](https://user-images.githubusercontent.com/45927330/124398387-73000480-dce3-11eb-8b53-1dd0068382b7.png)
-### Hi, Call me Rida
+### Hi, I'm Noor Rida. 
+## Working in React, Typescript & Node.
+## Enthusiastic about new Technologies.
+## Love keeping journals!
+---
+# Reach out
+## [Email](noor.rida.cui@gmail.com)
 <!--
 **loralridz/loralridz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
