@@ -2,7 +2,7 @@
 
 ### Hi, I'm Rida. I...
 - Work in React, Typescript & Node.
-- Look to work in new technologies.
+- cherish new technologies.
 - Love keeping journals!
 ---
 ### Reach out
