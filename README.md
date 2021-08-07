@@ -8,8 +8,7 @@
 ### Reach out
 - Email : noor.rida.cui@gmail.com
 - Connect : [LinkedIn](https://www.linkedin.com/in/noor-rida-0ba8771a6/)
-- Visit : ~~www.noor-rida.com~~
-
+- Visit : [noorrida.me]()
 <!--
 **loralridz/loralridz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
